@@ -1,0 +1,178 @@
+---
+title: "Welcome to FRIDAY"
+format:
+  html:
+    theme: journal
+    toc: true
+    toc-depth: 2
+    highlight-style: tango
+editor: visual
+css: |
+  body {
+    background-color: #f0f8ff; /* Alice Blue for a fresh and clean look */
+    color: #333333;          /* Neutral dark gray for text */
+    font-family: 'Poppins', sans-serif; /* Modern and approachable font */
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background-color: #ffffff; /* White content area for contrast */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow for elegance */
+    border-radius: 10px; /* Slightly rounded corners for a modern look */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #00509e; /* Vivid blue for headings */
+  }
+
+  a {
+    color: #ff7f50; /* Coral for links */
+  }
+
+  a:hover {
+    color: #ff4500; /* Orange red hover effect for links */
+    text-decoration: underline;
+  }
+---
+
+Where data meets innovation! At **FRIDAY**, we believe in the power of data to transform businesses. Born on a Friday 20th ,December 2024, our mission is driven by the idea that every business can achieve greatness with the right insights and strategy.
+
+------------------------------------------------------------------------
+
+## Who We Are
+
+At **FRIDAY**, we combine a passion for data with a commitment to helping businesses thrive. Whether you're looking to unlock the potential of your data or need strategic insights to drive growth, we're here to help you succeed.
+
+**Kariuki Reuben**, the founder of **FRIDAY**, has over 3 years of experience in data-driven industries and a strong background in Actuarial Science. Kariuki's mission is to help organizations harness the power of data to drive impactful decisions and achieve measurable results.
+
+![](WhatsApp Image 2024-12-20 at 11.10.07.jpeg){fig-align="left" width="238"}
+
+[Download My CV](https://github.com/DataGuy-Kariuki/CV.PDF)
+
+------------------------------------------------------------------------
+
+# My Services
+
+At **FRIDAY**, we specialize in data science and business analytics, helping businesses make informed decisions through the power of data.
+
+### Services We Offer:
+
+I offer tailored data science and analytics services to meet your business needs.
+
+#### Data Science Training
+
+-   Offer training sessions and workshops to empower individuals and teams with data science skills.
+
+-   Excel , Tableau, SQL, R/Python , Power BI, Quarto websites.
+
+#### Market Research and Insights
+
+-   Conduct comprehensive market analysis to uncover trends, opportunities, and competitive advantages.
+
+#### Data Analysis
+
+-   Transform raw data into actionable insights.
+
+#### Machine Learning Models
+
+-   Build predictive models for classification, regression, and clustering tasks.
+
+#### Dashboard Development
+
+-   Design interactive dashboards for monitoring key performance indicators.
+
+#### Business Intelligence Solutions
+
+-   Develop and implement BI tools like Tableau and Power BI for data-driven decision-making.
+
+------------------------------------------------------------------------
+
+# Projects
+
+### 1. **Credit Risk Prediction App**
+
+**Tools**: R, Python, Shiny, Random Forest\
+**Description**:
+
+-   Developed a Shiny app to predict credit risk based on a Random Forest model.
+
+-   The app uses user inputs like age, income, loan amount, and credit score to predict the likelihood of loan defaults.
+
+-   Deployed on shinyapps.io for easy accessibility, improving lending decisions and reducing loan defaults by 20%.
+
+-   [View Project](https://shorturl.at/V1NLk)
+
+------------------------------------------------------------------------
+
+### 2. **Customer Location Validation Application**
+
+**Tools**: R, Shiny\
+**Description**:\
+
+-   Built a fraud detection app to validate if multiple customers are originating from the same location.
+
+-   Helped businesses mitigate risks and identify potential fraudulent activities.
+
+-   [View Application](https://kamwanaanalyst.shinyapps.io/MyValidAppName/)
+
+------------------------------------------------------------------------
+
+### 3. **Amazon iPhone Price Analytics**
+
+**Tools**: R, rvest, Shiny\
+**Description**:
+
+-   Scraped real-time iPhone price data from Amazon using `rvest`.
+
+-   Converted prices into Kenyan Shillings and visualized the most expensive iPhones using Shiny.
+
+-   Created an interactive interface for user engagement.
+
+-   [View Application](https://rb.gy/d75197)
+
+------------------------------------------------------------------------
+
+### 4. **HR Analytics Dashboard**
+
+**Tools**: Power BI, Tableau, SQL\
+**Description**:
+
+-   Designed an HR dashboard to track metrics like employee performance, turnover rates, and recruitment efficiency.
+
+-   Provided actionable insights for HR teams to enhance retention and recruitment strategies.
+
+------------------------------------------------------------------------
+
+# Get in Touch
+
+We’d love to hear from you! Reach out through any of the options below:
+
+### **Email**
+
+<a href="mailto:reubenmwas51@gmail.com" class="btn btn-primary">Send Us an Email</a>
+
+### **Phone**
+
++254713167064
+
+### **Address**
+
+We work remotely in Nairobi, Kenya.
+
+### **Support Us**
+
+**MPESA**: +254704033459
+
+------------------------------------------------------------------------
+
+# Let's Work Together
+
+At **FRIDAY**, we are passionate about using data to make a difference. Whether you need cutting-edge machine learning models, interactive dashboards, or actionable insights, we're here to bring your vision to life.
+
+### **Get Started** 
+
+<a href="mailto:reubenmwas51@gmail.com" class="btn btn-primary">Send Us an Email</a>\
